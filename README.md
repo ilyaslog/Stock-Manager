@@ -1,8 +1,7 @@
 # Application de Gestion des Ventes
 
 ## Présentation
-
-Bienvenue dans l'application de gestion des ventes pour l'entreprise ! Cette application a été développée en Java par une équipe d'étudiants passionnés par le codage et l'apprentissage de nouvelles technologies. Elle permet de gérer efficacement les ventes de matériel informatique, avec des fonctionnalités adaptées aux vendeurs et aux administrateurs.
+Bienvenue dans l'application de gestion des ventes ! Développée en Java  cette application permet de gérer efficacement les ventes de matériel informatique, avec des fonctionnalités adaptées aux vendeurs et aux administrateurs.
 
 ## Fonctionnalités Clés
 
